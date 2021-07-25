@@ -1,0 +1,6 @@
+https://obsidian.md/ - the editor this stuff is being written with
+
+https://github.com/Peltoche/lsd - the next gen ls command
+https://github.com/BurntSushi/ripgrep - grep but with 100% more multithreading and Rust
+https://github.com/rolinh/dfc - disk usage tool
+http://eaglemode.sourceforge.net/ - zoomable file browser with previews

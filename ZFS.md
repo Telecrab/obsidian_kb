@@ -1,0 +1,10 @@
+https://wiki.archlinux.org/title/ZFS
+https://openzfs.github.io/openzfs-docs/Project%20and%20Community/FAQ.html#performance-considerations
+https://charsiurice.wordpress.com/2016/05/30/checking-ashift-on-existing-pools/
+https://www.reddit.com/r/zfs/comments/7hlyx6/how_many_checksum_errors_is_acceptable/
+[https://www.google.ru/search?q=zfs+get+list+of+files+with+checksum+error&oq=zfs+get+list+of+files+with+checksum+error&sourceid=chrome&ie=UTF-8](https://www.google.ru/search?q=zfs+get+list+of+files+with+checksum+error&oq=zfs+get+list+of+files+with+checksum+error&sourceid=chrome&ie=UTF-8)
+https://serverfault.com/questions/581351/zfs-checksum-errors-what-files-are-affected
+https://forums.servethehome.com/index.php?threads/zfs-checksum-error-on-scrub-–-how-do-i-see-affected-files.24990/
+[https://www.google.ru/search?q=zfs+checksum+error+not+repaired&oq=zfs+checksum+error+not+repaired&sourceid=chrome&ie=UTF-8](https://www.google.ru/search?q=zfs+checksum+error+not+repaired&oq=zfs+checksum+error+not+repaired&sourceid=chrome&ie=UTF-8)
+https://unix.stackexchange.com/questions/341614/understanding-the-error-reporting-of-zfs-on-linux
+https://www.reddit.com/r/zfs/comments/3wuiyx/what_to_do_with_checksum_errors/
